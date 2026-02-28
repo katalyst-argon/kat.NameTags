@@ -9,7 +9,7 @@
 - Full Source Code is allowed for free use as long as it is not used in a harmful way (RATTING, MALWARE, ETC...)
 - Using the Source Code from this Name Tag mod is only allowed to be used if your Mod/Menu/Cheat is completely OPEN SOURCE and NOT Obfuscated
 
-Features
+# Features
 - User Name (Redirected to Color Codes)
 - Player ID
 - Player Trails (Redirected to Color Codes)
