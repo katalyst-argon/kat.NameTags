@@ -20,3 +20,4 @@
 46-74 = YELLOW
 75-144 = GREEN
 145+ = BLUE
+<img width="354" height="336" alt="kat nametags" src="https://github.com/user-attachments/assets/f5c15886-3b7d-4e78-834e-3e1301a2d75e" />
